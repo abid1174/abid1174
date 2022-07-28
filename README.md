@@ -12,5 +12,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about MERN Stack
 - 📫 How to reach me: abidalamin9@gmail.com
 
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abid1174&show_icons=true&theme=radical" alt="abid1174"/>
+</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abid1174&theme=dracula)](https://github.com/abid1174/github-readme-stats)
