@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on React & Node
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently learning System Design 
 - 👯 I’m looking to collaborate on Node
 - 🤔 I’m looking for help with interview prep
 - 💬 Ask me about MERN Stack
