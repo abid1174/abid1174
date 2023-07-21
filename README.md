@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with interview prep
 - 💬 Ask me about MERN Stack
 - 📫 How to reach me: abidalamin9@gmail.com
-- 
 
 ## 🛠️ Skills
 ### Frameworks and Libraries
