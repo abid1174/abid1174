@@ -2,10 +2,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on React & Node
-- 🌱 I’m currently learning System Design 
-- 👯 I’m looking to collaborate on Node
-- 🤔 I’m looking for help with interview prep
+- 🔭 I’m currently working on NestJS, Nextjs
+- 🌱 I’m currently learning System Design, Distributed Systems, Microservices, Database
+- 👯 I’m looking to collaborate on Node Projects
+- 🤔 I’m looking for help with Distributed Systems
 - 💬 Ask me about MERN Stack
 - 📫 How to reach me: abidalamin9@gmail.com
 
