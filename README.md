@@ -3,17 +3,17 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on NestJS, Nextjs
-- 🌱 I’m currently learning System Design, Distributed Systems, Microservices, Database
+- 🌱 I’m currently learning System Design, Distributed Systems, Microservices
 - 👯 I’m looking to collaborate on Node Projects
 - 🤔 I’m looking for help with Distributed Systems
-- 💬 Ask me about MERN Stack
+- 💬 Ask me about JavaScript/TypeScript Stack
 - 📫 How to reach me: abidalamin9@gmail.com
 
 ## 🛠️ Skills
 ### Frameworks and Libraries
-![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NextJS](https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![NextJS](https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
