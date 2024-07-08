@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on NestJS, Nextjs
-- 🌱 I’m currently learning System Design, Distributed Systems, Microservices
+- 🌱 I’m currently learning System Design, Distributed Systems, Microservices and Go
 - 👯 I’m looking to collaborate on Node Projects
 - 🤔 I’m looking for help with Distributed Systems
 - 💬 Ask me about JavaScript/TypeScript Stack
@@ -13,13 +13,11 @@ Here are some ideas to get you started:
 ### Programming Languages
 ![TypeScript](https://img.shields.io/badge/typescript-007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-f0db4f.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/python-4b8bbe.svg?style=for-the-badge&logo=python&logoColor=F29111)
 
 ### Frameworks and Libraries
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NextJS](https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 ### Database
 ![MySQL](https://img.shields.io/badge/mysql-00758F.svg?style=for-the-badge&logo=mysql&logoColor=F29111)
