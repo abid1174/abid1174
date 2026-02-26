@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on NestJS, Nextjs
+- 🔭 I’m currently working on Expressjs, Nextjs
 - 🌱 I’m currently learning System Design, Distributed Systems, Microservices and Go
 - 👯 I’m looking to collaborate on Node Projects
 - 🤔 I’m looking for help with Distributed Systems
